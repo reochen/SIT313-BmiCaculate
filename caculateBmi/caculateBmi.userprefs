@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="caculateBmi/caculateBmi.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="caculateBmi/ViewController.cs">
+    <Files>
+      <File FileName="caculateBmi/ViewController.cs" Line="15" Column="3" />
+      <File FileName="caculateBmi/Main.cs" Line="12" Column="50" />
+      <File FileName="caculateBmi/BmiViewController.cs" Line="25" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.caculateBmi PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B9B986BB-1D98-4B4F-B75D-4CBB1E9A1B75" />
+</Properties>
