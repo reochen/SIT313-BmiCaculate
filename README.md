@@ -11,6 +11,7 @@ System requirements: IOS
 
 Auto layout is implemented in order to make sure the app will fit different screen size.
 A BMI calculation algorithm is implemented in the app in order to finalize the calculation result.
---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
 Developer: Reo Chen
 Contact: cliy@deakin.edu.au
